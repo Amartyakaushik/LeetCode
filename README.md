@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Amartyakaushik/LeetCode/tree/master/0830-largest-triangle-area) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amartyakaushik/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Amartyakaushik/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amartyakaushik/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0830-largest-triangle-area](https://github.com/Amartyakaushik/LeetCode/tree/master/0830-largest-triangle-area) |
 | [2032-largest-odd-number-in-string](https://github.com/Amartyakaushik/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Amartyakaushik/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Amartyakaushik/LeetCode/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
