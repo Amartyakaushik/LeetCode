@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Amartyakaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0830-largest-triangle-area](https://github.com/Amartyakaushik/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/Amartyakaushik/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amartyakaushik/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -99,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/Amartyakaushik/LeetCode/tree/master/0830-largest-triangle-area) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Amartyakaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
