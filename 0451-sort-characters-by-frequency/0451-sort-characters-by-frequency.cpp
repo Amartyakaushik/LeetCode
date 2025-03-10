@@ -18,5 +18,7 @@ public:
             temp += vp[i].second;
         }
         return temp;
+
+        // alternative approach
     }
 };
