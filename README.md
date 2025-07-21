@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Amartyakaushik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0390-elimination-game](https://github.com/Amartyakaushik/LeetCode/tree/master/0390-elimination-game) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Amartyakaushik/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0830-largest-triangle-area](https://github.com/Amartyakaushik/LeetCode/tree/master/0830-largest-triangle-area) |
 | [2032-largest-odd-number-in-string](https://github.com/Amartyakaushik/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -122,4 +123,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0390-elimination-game](https://github.com/Amartyakaushik/LeetCode/tree/master/0390-elimination-game) |
+| [0795-k-th-symbol-in-grammar](https://github.com/Amartyakaushik/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/Amartyakaushik/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
