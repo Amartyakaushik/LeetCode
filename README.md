@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Amartyakaushik/LeetCode/tree/master/0013-roman-to-integer) |
+| [0390-elimination-game](https://github.com/Amartyakaushik/LeetCode/tree/master/0390-elimination-game) |
 | [0830-largest-triangle-area](https://github.com/Amartyakaushik/LeetCode/tree/master/0830-largest-triangle-area) |
 | [2032-largest-odd-number-in-string](https://github.com/Amartyakaushik/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Amartyakaushik/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amartyakaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0740-delete-and-earn](https://github.com/Amartyakaushik/LeetCode/tree/master/0740-delete-and-earn) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/Amartyakaushik/LeetCode/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
