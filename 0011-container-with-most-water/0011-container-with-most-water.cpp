@@ -1,32 +1,14 @@
-#include<bits/stdc++.h>
 class Solution {
 public:
     int maxArea(vector<int>& height) {
-        int area = INT_MIN;
-        // naive approach
-        // for(int i = 0; i< height.size(); i++){
-        //     for(int j = i+1; j < height.size(); j++){
-        //         int h = min(height[i], height[j]);
-        //         int width = j -i;
-        //         area = max(area, h*width);
-        //     }
-        // }
-        // return area;
-
-        //using two pointer
-        int start = 0, end = height.size()-1, prevArea;
-        while(start < end){
-            int width = end - start;
-            int uchai = min(height[start], height[end]);
-            area = max(area, width * uchai);
-            // if(prevArea < area){
-                if(height[start] < height[end]){
-                    start++;
-                }else{
-                    end--;
-                }
-            // }
-            // int prevArea = area;
+        int i =0, j = height.size()-1, area = 0;
+        while(i < height.size()-1 && j >= 0){
+            int minHeight = min(height[i], height[j]);
+            area = max(area, minHeight * (j -i));
+            if(height[i] < height[j]) 
+                i++;
+            else
+                j--;
         }
         return area;
     }
