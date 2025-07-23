@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0015-3sum) |
+| [0039-combination-sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0039-combination-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Amartyakaushik/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amartyakaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0740-delete-and-earn](https://github.com/Amartyakaushik/LeetCode/tree/master/0740-delete-and-earn) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Amartyakaushik/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
