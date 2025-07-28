@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0039-combination-sum) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Amartyakaushik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/Amartyakaushik/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amartyakaushik/LeetCode/tree/master/0242-valid-anagram) |
