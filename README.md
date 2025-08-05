@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Amartyakaushik/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Amartyakaushik/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amartyakaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0151-reverse-words-in-a-string](https://github.com/Amartyakaushik/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amartyakaushik/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [1078-remove-outermost-parentheses](https://github.com/Amartyakaushik/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amartyakaushik/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Amartyakaushik/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amartyakaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/Amartyakaushik/LeetCode/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/Amartyakaushik/LeetCode/tree/master/0740-delete-and-earn) |
@@ -177,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Amartyakaushik/LeetCode/tree/master/0322-coin-change) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
