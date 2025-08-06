@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amartyakaushik/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Amartyakaushik/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0740-delete-and-earn](https://github.com/Amartyakaushik/LeetCode/tree/master/0740-delete-and-earn) |
+| [1023-time-based-key-value-store](https://github.com/Amartyakaushik/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Amartyakaushik/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Amartyakaushik/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amartyakaushik/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Amartyakaushik/LeetCode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Amartyakaushik/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Amartyakaushik/LeetCode/tree/master/0812-rotate-string) |
+| [1023-time-based-key-value-store](https://github.com/Amartyakaushik/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1078-remove-outermost-parentheses](https://github.com/Amartyakaushik/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Amartyakaushik/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amartyakaushik/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Amartyakaushik/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amartyakaushik/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0907-koko-eating-bananas](https://github.com/Amartyakaushik/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/Amartyakaushik/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amartyakaushik/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sliding Window
 |  |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
+## Design
+|  |
+| ------- |
+| [1023-time-based-key-value-store](https://github.com/Amartyakaushik/LeetCode/tree/master/1023-time-based-key-value-store) |
 <!---LeetCode Topics End-->
