@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Amartyakaushik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Amartyakaushik/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Amartyakaushik/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Amartyakaushik/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amartyakaushik/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amartyakaushik/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Amartyakaushik/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Amartyakaushik/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Amartyakaushik/LeetCode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Amartyakaushik/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Amartyakaushik/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Amartyakaushik/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amartyakaushik/LeetCode/tree/master/0242-valid-anagram) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Amartyakaushik/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amartyakaushik/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amartyakaushik/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Sorting
