@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Amartyakaushik/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Amartyakaushik/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Amartyakaushik/LeetCode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amartyakaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amartyakaushik/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amartyakaushik/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Amartyakaushik/LeetCode/tree/master/0078-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Amartyakaushik/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Amartyakaushik/LeetCode/tree/master/0078-subsets) |
 ## Divide and Conquer
 |  |
 | ------- |
