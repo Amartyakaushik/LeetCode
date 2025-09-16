@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amartyakaushik/LeetCode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/Amartyakaushik/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Amartyakaushik/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Amartyakaushik/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amartyakaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Amartyakaushik/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Amartyakaushik/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Amartyakaushik/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Amartyakaushik/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/Amartyakaushik/LeetCode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Amartyakaushik/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Amartyakaushik/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amartyakaushik/LeetCode/tree/master/0242-valid-anagram) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Amartyakaushik/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Amartyakaushik/LeetCode/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Amartyakaushik/LeetCode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Amartyakaushik/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Amartyakaushik/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0090-subsets-ii) |
 ## Divide and Conquer
 |  |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Amartyakaushik/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
