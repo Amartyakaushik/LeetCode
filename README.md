@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amartyakaushik/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Amartyakaushik/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Amartyakaushik/LeetCode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Amartyakaushik/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Amartyakaushik/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Amartyakaushik/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amartyakaushik/LeetCode/tree/master/0242-valid-anagram) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Amartyakaushik/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amartyakaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Amartyakaushik/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Amartyakaushik/LeetCode/tree/master/0322-coin-change) |
 | [0740-delete-and-earn](https://github.com/Amartyakaushik/LeetCode/tree/master/0740-delete-and-earn) |
 ## Recursion
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Amartyakaushik/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Amartyakaushik/LeetCode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Amartyakaushik/LeetCode/tree/master/0131-palindrome-partitioning) |
 ## Divide and Conquer
 |  |
 | ------- |
