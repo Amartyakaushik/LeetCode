@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Amartyakaushik/LeetCode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Amartyakaushik/LeetCode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Amartyakaushik/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Amartyakaushik/LeetCode/tree/master/0695-max-area-of-island) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Amartyakaushik/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -307,4 +309,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Amartyakaushik/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Amartyakaushik/LeetCode/tree/master/0695-max-area-of-island) |
+| [2121-find-if-path-exists-in-graph](https://github.com/Amartyakaushik/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/Amartyakaushik/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
