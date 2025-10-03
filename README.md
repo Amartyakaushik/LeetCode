@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Amartyakaushik/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Amartyakaushik/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Amartyakaushik/LeetCode/tree/master/0451-sort-characters-by-frequency) |
+| [0744-network-delay-time](https://github.com/Amartyakaushik/LeetCode/tree/master/0744-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Amartyakaushik/LeetCode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Amartyakaushik/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Amartyakaushik/LeetCode/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amartyakaushik/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Monotonic Stack
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/Amartyakaushik/LeetCode/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Amartyakaushik/LeetCode/tree/master/0744-network-delay-time) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amartyakaushik/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -324,10 +327,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Amartyakaushik/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/Amartyakaushik/LeetCode/tree/master/0744-network-delay-time) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amartyakaushik/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Amartyakaushik/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Amartyakaushik/LeetCode/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
