@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Amartyakaushik/LeetCode/tree/master/0740-delete-and-earn) |
 | [0830-largest-triangle-area](https://github.com/Amartyakaushik/LeetCode/tree/master/0830-largest-triangle-area) |
 | [0907-koko-eating-bananas](https://github.com/Amartyakaushik/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1036-rotting-oranges](https://github.com/Amartyakaushik/LeetCode/tree/master/1036-rotting-oranges) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amartyakaushik/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Amartyakaushik/LeetCode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Amartyakaushik/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Amartyakaushik/LeetCode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Amartyakaushik/LeetCode/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Amartyakaushik/LeetCode/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Amartyakaushik/LeetCode/tree/master/1036-rotting-oranges) |
 ## Simulation
 |  |
 | ------- |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Amartyakaushik/LeetCode/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/Amartyakaushik/LeetCode/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/Amartyakaushik/LeetCode/tree/master/0744-network-delay-time) |
+| [1036-rotting-oranges](https://github.com/Amartyakaushik/LeetCode/tree/master/1036-rotting-oranges) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Amartyakaushik/LeetCode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Amartyakaushik/LeetCode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Monotonic Stack
