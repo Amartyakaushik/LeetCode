@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Amartyakaushik/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/Amartyakaushik/LeetCode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/Amartyakaushik/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Amartyakaushik/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Amartyakaushik/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Amartyakaushik/LeetCode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Amartyakaushik/LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/Amartyakaushik/LeetCode/tree/master/0071-simplify-path) |
 | [1078-remove-outermost-parentheses](https://github.com/Amartyakaushik/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amartyakaushik/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
