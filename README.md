@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Amartyakaushik/LeetCode/tree/master/0740-delete-and-earn) |
 | [0808-number-of-matching-subsequences](https://github.com/Amartyakaushik/LeetCode/tree/master/0808-number-of-matching-subsequences) |
 | [0830-largest-triangle-area](https://github.com/Amartyakaushik/LeetCode/tree/master/0830-largest-triangle-area) |
+| [0852-friends-of-appropriate-ages](https://github.com/Amartyakaushik/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/Amartyakaushik/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1036-rotting-oranges](https://github.com/Amartyakaushik/LeetCode/tree/master/1036-rotting-oranges) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amartyakaushik/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Amartyakaushik/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Amartyakaushik/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amartyakaushik/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0852-friends-of-appropriate-ages](https://github.com/Amartyakaushik/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 ## String
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Amartyakaushik/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amartyakaushik/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0808-number-of-matching-subsequences](https://github.com/Amartyakaushik/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0852-friends-of-appropriate-ages](https://github.com/Amartyakaushik/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [0907-koko-eating-bananas](https://github.com/Amartyakaushik/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Amartyakaushik/LeetCode/tree/master/1023-time-based-key-value-store) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amartyakaushik/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Amartyakaushik/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0720-longest-word-in-dictionary](https://github.com/Amartyakaushik/LeetCode/tree/master/0720-longest-word-in-dictionary) |
 | [0808-number-of-matching-subsequences](https://github.com/Amartyakaushik/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [0852-friends-of-appropriate-ages](https://github.com/Amartyakaushik/LeetCode/tree/master/0852-friends-of-appropriate-ages) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amartyakaushik/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
