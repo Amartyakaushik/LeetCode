@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Amartyakaushik/LeetCode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amartyakaushik/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Amartyakaushik/LeetCode/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Amartyakaushik/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Amartyakaushik/LeetCode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Amartyakaushik/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Amartyakaushik/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Amartyakaushik/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0205-isomorphic-strings](https://github.com/Amartyakaushik/LeetCode/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amartyakaushik/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amartyakaushik/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Amartyakaushik/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Amartyakaushik/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Amartyakaushik/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Amartyakaushik/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Amartyakaushik/LeetCode/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Amartyakaushik/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Amartyakaushik/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Amartyakaushik/LeetCode/tree/master/0451-sort-characters-by-frequency) |
