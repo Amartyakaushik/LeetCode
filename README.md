@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Amartyakaushik/LeetCode/tree/master/0018-4sum) |
 | [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/Amartyakaushik/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Amartyakaushik/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Amartyakaushik/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Amartyakaushik/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Amartyakaushik/LeetCode/tree/master/0071-simplify-path) |
+| [0143-reorder-list](https://github.com/Amartyakaushik/LeetCode/tree/master/0143-reorder-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Amartyakaushik/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amartyakaushik/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/Amartyakaushik/LeetCode/tree/master/0143-reorder-list) |
 | [0390-elimination-game](https://github.com/Amartyakaushik/LeetCode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Amartyakaushik/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Amartyakaushik/LeetCode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -370,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Amartyakaushik/LeetCode/tree/master/0744-network-delay-time) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Amartyakaushik/LeetCode/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
