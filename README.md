@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Amartyakaushik/LeetCode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Amartyakaushik/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Amartyakaushik/LeetCode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Stack
 |  |
 | ------- |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Amartyakaushik/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amartyakaushik/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amartyakaushik/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Amartyakaushik/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Amartyakaushik/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -393,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Amartyakaushik/LeetCode/tree/master/0143-reorder-list) |
+## Enumeration
+|  |
+| ------- |
+| [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
