@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amartyakaushik/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/Amartyakaushik/LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Amartyakaushik/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Amartyakaushik/LeetCode/tree/master/0338-counting-bits) |
 | [0740-delete-and-earn](https://github.com/Amartyakaushik/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Amartyakaushik/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Amartyakaushik/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Amartyakaushik/LeetCode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/0090-subsets-ii) |
+| [0338-counting-bits](https://github.com/Amartyakaushik/LeetCode/tree/master/0338-counting-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Amartyakaushik/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Matrix
 |  |
