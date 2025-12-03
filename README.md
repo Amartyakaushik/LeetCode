@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/Amartyakaushik/LeetCode/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Amartyakaushik/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [0830-largest-triangle-area](https://github.com/Amartyakaushik/LeetCode/tree/master/0830-largest-triangle-area) |
+| [1025-divisor-game](https://github.com/Amartyakaushik/LeetCode/tree/master/1025-divisor-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Amartyakaushik/LeetCode/tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Amartyakaushik/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Amartyakaushik/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Amartyakaushik/LeetCode/tree/master/0808-number-of-matching-subsequences) |
+| [1025-divisor-game](https://github.com/Amartyakaushik/LeetCode/tree/master/1025-divisor-game) |
 ## Recursion
 |  |
 | ------- |
@@ -402,4 +404,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3445-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Amartyakaushik/LeetCode/tree/master/3445-maximum-difference-between-even-and-odd-frequency-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Amartyakaushik/LeetCode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Amartyakaushik/LeetCode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
