@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Amartyakaushik/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0695-max-area-of-island](https://github.com/Amartyakaushik/LeetCode/tree/master/0695-max-area-of-island) |
 | [0720-longest-word-in-dictionary](https://github.com/Amartyakaushik/LeetCode/tree/master/0720-longest-word-in-dictionary) |
+| [0739-daily-temperatures](https://github.com/Amartyakaushik/LeetCode/tree/master/0739-daily-temperatures) |
 | [0740-delete-and-earn](https://github.com/Amartyakaushik/LeetCode/tree/master/0740-delete-and-earn) |
 | [0747-min-cost-climbing-stairs](https://github.com/Amartyakaushik/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0808-number-of-matching-subsequences](https://github.com/Amartyakaushik/LeetCode/tree/master/0808-number-of-matching-subsequences) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Amartyakaushik/LeetCode/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/Amartyakaushik/LeetCode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Amartyakaushik/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Amartyakaushik/LeetCode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/Amartyakaushik/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Amartyakaushik/LeetCode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Amartyakaushik/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Amartyakaushik/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
